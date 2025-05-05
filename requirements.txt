@@ -1,0 +1,6 @@
+ipykernel==6.29.5
+kaggle==1.6.17
+matplotlib==3.9.3
+pandas==2.2.3
+scikit-learn==1.5.2
+seaborn==0.13.2
